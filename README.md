@@ -8,9 +8,9 @@ Este programa requer Python 3 instalado em sua máquina. Caso você ainda não o
 
 ## Como usar
 
-1. Clone este repositório para a sua máquina ou faça o download do arquivo `adivinhe_o_numero.py`.
-2. Abra o terminal ou prompt de comando na pasta em que o arquivo `adivinhe_o_numero.py` está localizado.
-3. Execute o comando `python adivinhe_o_numero.py` ou `python3 adivinhe_o_numero.py` (dependendo da sua instalação do Python).
+1. Clone este repositório para a sua máquina ou faça o download do arquivo `main.py`.
+2. Abra o terminal ou prompt de comando na pasta em que o arquivo `main.py` está localizado.
+3. Execute o comando `python main.py` ou `python3 main.py` (dependendo da sua instalação do Python).
 4. Siga as instruções do programa para jogar.
 
 ## Como funciona
